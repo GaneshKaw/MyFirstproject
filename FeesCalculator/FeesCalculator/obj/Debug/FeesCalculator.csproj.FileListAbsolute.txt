@@ -1,0 +1,5 @@
+F:\FeesCalculator\FeesCalculator\bin\Debug\FeesCalculator.exe
+F:\FeesCalculator\FeesCalculator\bin\Debug\FeesCalculator.pdb
+F:\FeesCalculator\FeesCalculator\obj\Debug\ResolveAssemblyReference.cache
+F:\FeesCalculator\FeesCalculator\obj\Debug\FeesCalculator.exe
+F:\FeesCalculator\FeesCalculator\obj\Debug\FeesCalculator.pdb
